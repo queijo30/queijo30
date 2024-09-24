@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm João Miguel! A passionate Data Science student from Brazil.
+  Hi 👋, I'm João Miguel! i am a programmer/website creator, I am still a student, but I am always evolving Brazil.
 
   - 🌱 I'm currently studying Java, Python and C++(It's not a language but I'm experienced in HTML and CSS)
 
